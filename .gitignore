@@ -9,3 +9,4 @@ test/binary/tmp/*
 test/tmp/*
 test/sqlite/test.sqlite
 coverage-*
+package-lock.json
